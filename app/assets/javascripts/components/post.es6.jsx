@@ -13,6 +13,7 @@ class Post extends React.Component {
           {this.props.post.subject}
         </h2>
         <p>{this.props.post.message}</p>
+        <p>{this.props.post.rank}</p>
       </div>
 
     )
