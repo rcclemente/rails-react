@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'react-rails'
-gem 'mysql2'
+gem 'mysql2', '0.4.10'
 gem 'webpacker', '~> 3.0'
 
 group :development, :test do
