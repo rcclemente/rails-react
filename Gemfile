@@ -38,7 +38,7 @@ gem 'react-rails'
 gem 'mysql2', '0.4.10'
 gem 'webpacker', '~> 3.0'
 
-gem "nokogiri", "~> 1.10.8"
+gem "nokogiri", "~> 1.11.4"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
